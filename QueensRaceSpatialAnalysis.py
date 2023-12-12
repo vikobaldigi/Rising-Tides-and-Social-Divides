@@ -9,7 +9,7 @@ import os
 
 # %%
 # Set API key
-c = Census("4fad0f0347ecccde74ca8056c2e459f839171d3a")
+c = Census("INSERT KEY HERE")
 
 # %%
 # Obtain Census variables from the 2022 ACS at the tract level for Queens County, NY (FIPS code: 081)
