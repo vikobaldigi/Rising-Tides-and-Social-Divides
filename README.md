@@ -78,5 +78,5 @@ This project is distributed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-Developed by [Philip Kovacevic](mailto:your.email@example.com)  
+Developed by Philip Kovacevic 
 MS in Data Analytics & Visualization, CUNY Graduate Center
