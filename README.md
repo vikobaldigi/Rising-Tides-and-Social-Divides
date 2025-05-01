@@ -19,20 +19,6 @@ This work was developed as part of a graduate-level project at CUNY, drawing fro
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-Rising-Tides-and-Social-Divides/
-├── notebooks/         # Jupyter notebooks for analysis
-├── scripts/           # Python code for data processing & visualization
-├── outputs/           # Generated maps, charts, and graphics
-├── docs/              # Presentation materials or write-ups
-├── requirements.txt   # Python dependencies
-└── README.md          # Project overview
-```
-
----
-
 ## 🛠️ Installation and Setup
 
 ```bash
