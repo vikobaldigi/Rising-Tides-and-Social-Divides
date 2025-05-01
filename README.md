@@ -1,8 +1,5 @@
 # 🌊 Rising Tides and Social Divides
 
-**Status:** 🚧 Work in Progress  
-**Access:** 🔒 Currently Restricted
-
 ---
 
 ## 📖 Overview
