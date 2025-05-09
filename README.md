@@ -61,13 +61,7 @@ All data was acquired from public repositories:
 - Spatial Justice & Environmental Racism
 - Critical GIS and Counter-Mapping
 - Coastal Vulnerability and Resilience Planning
-
----
-
-## 🤝 Contributing
-
-If you'd like to expand this analysis (e.g. to other boroughs, scenarios, or dimensions), feel free to fork the repo and submit a pull request.
-
+  
 ---
 
 ## 📄 License
